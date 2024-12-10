@@ -1,6 +1,8 @@
 # Tree_ML
 
-Considering the current trends in ML, I hope this repository is clear enough to explain some applications of tree-based machine learning algorithms. Notably, how do we incorporate **spatial thinking and spatial statistics insights** into ML?
+Considering the current trends in ML, I hope this repository is clear enough to explain some applications of tree-based machine learning algorithms (e.g., Boosting and Bagging strategies). 
+
+Notably, how do we incorporate **spatial thinking and spatial statistics insights** into ML? I do not know, but I hope such summaries raise our curiosity. 
 
 ## References:
 
